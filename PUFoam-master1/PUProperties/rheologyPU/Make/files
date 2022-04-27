@@ -1,3 +1,0 @@
-rheologyPU.C
-
-LIB = $(FOAM_USER_LIBBIN)/librheologyPU

@@ -1,3 +1,0 @@
-Moments/Moments.C
-
-LIB = $(FOAM_USER_LIBBIN)/libPUMoments

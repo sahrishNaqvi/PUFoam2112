@@ -1,4 +1,0 @@
-rheologyPU/rheologyPU.C
-foamDensity/foamDensity.C
-
-LIB = $(FOAM_USER_LIBBIN)/libPUProperties
