@@ -1,3 +1,0 @@
-PUFoam.C
-
-EXE = $(FOAM_USER_APPBIN)/PUFoam
